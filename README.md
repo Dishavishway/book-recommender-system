@@ -23,5 +23,5 @@ In the digital age, the overwhelming abundance of books makes it challenging for
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/book-recommendation-system.git
+git clone https://github.com/Dishavishway/book-recommender-system.git
 cd book-recommendation-system
