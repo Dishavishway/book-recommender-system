@@ -1,7 +1,7 @@
 # Book Recommendation System
 
 ## Abstract
-This repository contains the Minor Project-I Report submitted by Group No. 07 for the development of a Book Recommendation System. The project aims to create a personalized recommendation system for book enthusiasts using machine learning techniques.
+This repository contains the development of a Book Recommendation System. The project aims to create a personalized recommendation system for book enthusiasts using machine learning techniques.
 
 ## Team Members
 - Disha Vishwakarma
@@ -36,7 +36,6 @@ The Book Recommendation System project aims to develop a machine learning-based 
 ## Software & Hardware Requirements
 ### Software Requirements
 - Python 3.x
-- TensorFlow
 - Flask
 - HTML, CSS
 
